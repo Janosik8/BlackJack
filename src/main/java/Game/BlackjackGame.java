@@ -72,7 +72,7 @@ public class BlackjackGame {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         panel.setLayout(new BorderLayout());
-        panel.setBackground(new Color(53,101,87));
+        panel.setBackground(new Color(0,255,162));
         frame.add(panel);
 
         hit.setFocusable(false);
